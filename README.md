@@ -14,7 +14,7 @@ An enterprise-grade, high-performance developer workspace and community pipeline
 
 | Splash Screen | Login Workspace |
 |---|---|
-|  |  |
+| <img src="dev.png" width="280">  | 
 
 ---
 
