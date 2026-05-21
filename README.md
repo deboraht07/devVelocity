@@ -12,7 +12,6 @@ An enterprise-grade, high-performance developer workspace and community pipeline
 ---
 ## 📱 Interface Preview
 
-| Splash Screen |
 |---|
 | <img src="dev.png.png" width="280">  | 
 
